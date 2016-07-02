@@ -1,7 +1,9 @@
 # fishfry
 replaces fish history with a history tailored to pentesters for efficency and newbie pentesters for learning, new linux users, and several distro specific commands over 250 total commands with full discriptions.
 
-replace the stock fishshell history located at '~/.config/fish/fish_history' with '~/.config/fish/fish_history_pentesting_suite'
+replace the stock fishshell history located at '~/.config/fish/fish_history' with '~/.config/fish/fish_history_pentesting_suite' - Ubuntu
+
+replace the stock fishshell history located at '/root/.local/share/fish/fish_history' with '/root/fishfry/fish_history_pentesting_suite' - kali/debian
 
 full listing and description of the commands:
 
