@@ -5,6 +5,8 @@ replace the stock fishshell history located at '~/.config/fish/fish_history' wit
 
 replace the stock fishshell history located at '/root/.local/share/fish/fish_history' with '/root/fishfry/fish_history_pentesting_suite' - kali/debian
 
+special thanks to g0tmi1k, #vulhub, #kali-linux, /r/kalilinux
+
 full listing and description of the commands:
 
 
